@@ -15,7 +15,7 @@ title: "
 </div>
 ---
 <div align="center">
-	<img src="/images/f2mf_model.png" width="600">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/flQsjlQfL98" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
 	<p style="font-size:16px;text-align:justify;padding-top: 25px">
 		We address anticipation of scene development by forecasting semantic segmentation of future frames. 
 		Several previous works approach this problem by F2F (feature-to-feature) forecasting where future features are regressed from observed features.
