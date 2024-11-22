@@ -8,33 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Vision at 
-Faculty of Electrical Engineering and Computing, 
-University of Zagreb. My advisor and life coach is [Siniša Šegvić](http://www.zemris.fer.hr/~ssegvic/).
+I am currently a postdoctoral researcher at the [<span style="color: #DC0714;">Faculty of Computer and Information Science, University of Ljubljana</span>](https://fri.uni-lj.si/), supported by the [<span style="color: #4FA25C;">SMASH postdoctoral program</span>](https://smash.ung.si/). Prior to this, I completed my PhD and two-year postdoc at the [<span style="color: #ECB000;">Faculty of Electrical Engineering and Computing, University of Zagreb</span>](https://www.fer.unizg.hr/), where I was part of [<span style="color: #7898e8;">Prof. Siniša Šegvić</span>](https://www.zemris.fer.hr/~ssegvic/) research group.
 
-My current research focuses on future anticipation in driving scenarios.
-The ability of machines to anticipate and reason about the future
-could be crucial in development and integration of autonomous driving systems.
-I am also interested in efficient image recognition models.
-
-In my free time I like to hang out with my friends, ride a bike and attend a pub quiz with my fantastic team.
-Now, I hope to publish some interesting posts on my blog about computer vision and stuff.
-
-
-Recent work	
+Recent news
 ------
-- \[[cvf](https://openaccess.thecvf.com/content/WACV2022/html/Bevandic_Multi-Domain_Semantic_Segmentation_With_Overlapping_Labels_WACV_2022_paper.html)\] **Multi-Domain Semantic Segmentation With Overlapping Labels**
-<br/>Petra Bevandić, Marin Oršić, Ivan Grubišić, Josip Šarić, Siniša Šegvić
-<br/>WACV 2022.
-- \[[ieee](https://ieeexplore.ieee.org/document/9664471), [arxiv](https://arxiv.org/abs/2101.10777)\] **Dense Semantic Forecasting in Video by Joint Regression of Features and Feature Motion**
-<br/>Josip Šarić, Sacha Vražić, Siniša Šegvić
-<br/>IEEE TNNLS 2021.
-- \[[arxiv](https://arxiv.org/abs/2010.09067)\] **Multimodal Semantic Forecasting Based on Conditional Generation of Future Features**
-<br/>Kristijan Fugošić, Josip Šarić, Siniša Šegvić
-<br/>GCPR 2020.
-- \[[cvf](http://openaccess.thecvf.com/content_CVPR_2020/html/Saric_Warp_to_the_Future_Joint_Forecasting_of_Features_and_Feature_CVPR_2020_paper.html)\] **Warp to the Future: Joint Forecasting of Features and Feature Motion**
-<br/>Josip Šarić, Marin Oršić, Tonći Antunović, Sacha Vražić, Siniša Šegvić
-<br/>CVPR 2020.
-- \[[arxiv](https://arxiv.org/abs/1907.11475)\] **Single Level Feature-to-Feature Forecasting with Deformable Convolutions**
-<br/>Josip Šarić, Marin Oršić, Tonći Antunović, Sacha Vražić, Siniša Šegvić
-<br/>GCPR 2019.
+
+**Oct 2024** [Ivan](https://www.fer.unizg.hr/ivan.martinovic) (also known as Tinke) presented [MC-Panda](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09103.pdf), our research on unsupervised domain adaptation, at [ECCV24](https://eccv.ecva.net/) in Milano, Italy.
+
+___
+
+
+**Sep 2024** I joined [ViCoS Lab](https://www.vicos.si/) at FRI-UniLJ as a postdoctoral researcher supervised by [prof. Matej Kristan](https://www.vicos.si/people/matej_kristan/).
+
+___ 
+
+
+**Aug 2024**  After 11 incredible years at FER, I decided to move on to further broaden my horizons. I began as a [student in 2013](/images/fer_2013.jpg), earned my [master’s degree in 2018](/images/fer_promotion_2018.jpg), completed my [PhD in 2022](/images/fer_phd_2022.jpg), and spent two valuable years as a postdoctoral researcher.
+
+___ 
+
+
+**Feb 2024**  I was awarded a prestigious [SMASH postdoctoral fellowship](https://smash.ung.si/), co-funded by the Marie Skłodowska-Curie COFUND Actions. 
+
+___ 

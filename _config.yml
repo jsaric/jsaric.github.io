@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Josip Šarić"
 title_separator          : "-"
 name                     : &name "Josip Šarić"
-description              : &description "PhD student in Computer Vision."
+description              : &description "Postdoc in Computer Vision."
 url                      : https://jsaric.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : http://127.0.0.1:4000/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,13 +82,13 @@ analytics:
 # Site Author
 author:
   name             : "Josip Šarić"
-  avatar           : "josip_profi_sq_crop.png"
-  bio              : "PhD student in Computer Vision at Faculty of Electrical Engineering and Computing, University of Zagreb."
-  location         : "Zagreb"
-  employer         : "FER"
+  avatar           : "josip_profi_fri.jpg"
+  bio              : "Postdoctoral researcher in Computer Vision at Faculty of Computer and Information Science, University of Ljubljana."
+  location         : "Ljubljana - Zagreb"
+  employer         : "FRI, University of Ljubljana"
   pubmed           :
   googlescholar    : "https://scholar.google.hr/citations?user=pPaDpsEAAAAJ&hl=hr"
-  email            : "josip.saric@fer.hr"
+  email            : "josip.saric@fri.uni-lj.si"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
