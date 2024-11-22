@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a postdoctoral researcher at the [<span style="color: #DC0714;">Faculty of Computer and Information Science, University of Ljubljana</span>](https://fri.uni-lj.si/), supported by the [<span style="color: #4FA25C;">SMASH postdoctoral program</span>](https://smash.ung.si/). Prior to this, I completed my PhD and two-year postdoc at the [<span style="color: #ECB000;">Faculty of Electrical Engineering and Computing, University of Zagreb</span>](https://www.fer.unizg.hr/), where I was part of [<span style="color: #7898e8;">Prof. Siniša Šegvić</span>](https://www.zemris.fer.hr/~ssegvic/) research group.
 
+My research interests focus on computer vision and deep learning, with a particular emphasis on topics such as panoptic segmentation, open-vocabulary recognition, label-efficient learning, and related areas.
+
 Recent news
 ------
 
